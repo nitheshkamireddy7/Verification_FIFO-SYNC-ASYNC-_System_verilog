@@ -1,0 +1,13 @@
+# MON: dout=0 full=0 empty=1
+# MON: dout=0 full=0 empty=1
+# MON: dout=0 full=0 empty=1
+# MON: dout=0 full=0 empty=1
+# MON: dout=0 full=0 empty=0
+# MON: dout=0 full=0 empty=0
+# MON: dout=63 full=0 empty=0
+# MON: dout=63 full=0 empty=0
+# MON: dout=63 full=0 empty=0
+# MON: dout=54 full=0 empty=0
+# MON: dout=ed full=0 empty=0
+# MON: dout=ed full=0 empty=0
+# MON: dout=ed full=0 empty=0
